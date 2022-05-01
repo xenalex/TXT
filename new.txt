@@ -1,0 +1,4 @@
+full name:"Каринa Сергеевна Запояско ",
+age:"35",
+pets amount:"1",
+future desired salary:"1000000"
