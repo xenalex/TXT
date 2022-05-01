@@ -1,0 +1,5 @@
+favorite movie:"Гарри Потер",
+favorite TV series:"Игра престолов",
+favorite food:"Селедка под шубой",
+favorite time of year:"Весна",
+the country you would like to visit:"Австалия, Канада"
